@@ -1,0 +1,5 @@
+name: SnowGun
+main: SnowGun\SnowGun
+version: 1.0.0
+author: KoalaBoy
+api: [1.4.1]
